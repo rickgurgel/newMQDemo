@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "destination.order",
+    "type": "java.lang.String",
+    "description": "A description for 'destination.order'"
+  },
+  {
+    "name": "destination.status",
+    "type": "java.lang.String",
+    "description": "A description for 'destination.status'"
+  },
+  {
+    "name": "activemq.broker-url",
+    "type": "java.lang.String",
+    "description": "A description for 'activemq.broker-url'"
+  },
+  {
+    "name": "destination.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'destination.topic'"
+  },
+  {
+    "name": "spring.rabbitmq.broker-url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.rabbitmq.broker-url'"
+  },
+  {
+    "name": "rabbitmq.broker-url",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.broker-url'"
+  },
+  {
+    "name": "rabbitmq.password",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.password'"
+  },
+  {
+    "name": "rabbitmq.username",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.username'"
+  }
+]}
